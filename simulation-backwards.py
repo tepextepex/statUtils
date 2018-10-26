@@ -1,6 +1,5 @@
 import os
 import gdal
-import numpy as np
 
 coefs = (0.000010, -0.012166, 4.335928)
 
